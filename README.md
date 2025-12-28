@@ -19,19 +19,19 @@ The goal is to explore sales performance, customer behavior, and product metrics
 ## 📈 Dashboard preview
 
 ### Overview
-![Overview](screenshots/1.jpg)
+![Overview](notebooks/data/dashboard/screenshots/1.jpg)
 
 ### Sales Trends
-![Trends](screenshots/2.jpg)
+![Trends](notebooks/data/dashboard/screenshots/2.jpg)
 
 ### Products
-![Products](screenshots/3.jpg)  
+![Products](notebooks/data/dashboard/screenshots/3.jpg)
 
 ### Customers & RFM Segmentation
-![Customers](screenshots/4.jpg)
+![Customers](notebooks/data/dashboard/screenshots/4.jpg)
 
 ### Geography
-![RFM](screenshots/5.jpg)
+![RFM](notebooks/data/dashboard/screenshots/5.jpg)
 
 
 ## 📦 Data note
