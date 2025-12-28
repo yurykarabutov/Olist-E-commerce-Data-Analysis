@@ -117,4 +117,4 @@ This project demonstrates practical data analytics skills:
 - Translating raw data into business insights
 - Building clear and actionable dashboards
 
-The project is suitable for a **Data Analyst / BI Analyst portfolio**.
+The project for a **Data Analyst / BI Analyst portfolio**.
