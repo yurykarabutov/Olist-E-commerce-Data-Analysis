@@ -2,7 +2,7 @@
 
 📌 **Русская версия README:** [README_RU.md](README_RU.md)
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes the Brazilian e-commerce dataset **Olist** with the goal of understanding sales performance, customer behavior, and product trends.
 
 The project demonstrates a full analytics pipeline:
@@ -12,7 +12,7 @@ The project demonstrates a full analytics pipeline:
 
 ---
 
-## 🧠 Business Questions
+## Business Questions
 - How does revenue change over time?
 - Which product categories generate the most revenue?
 - What is the average order value (AOV) by month and by category?
@@ -22,7 +22,7 @@ The project demonstrates a full analytics pipeline:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Python** (pandas, numpy, matplotlib)
 - **Power BI**
 - **Jupyter Notebook**
@@ -30,7 +30,7 @@ The project demonstrates a full analytics pipeline:
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 - **GMV (Gross Merchandise Value)**
 - **Revenue**
 - **Average Order Value (AOV)**
@@ -40,7 +40,7 @@ The project demonstrates a full analytics pipeline:
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### 1️⃣ Overview
 ![Overview](notebooks/data/dashboard/screenshots/1.jpg)
@@ -106,12 +106,12 @@ Sales are concentrated in a limited number of regions, indicating uneven demand 
 
 ---
 
-## 📁 Data Source
+## Data Source
 Public dataset: **Olist Brazilian E-commerce Dataset**
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 This project demonstrates practical data analytics skills:
 - Working with real-world messy data
 - Translating raw data into business insights
